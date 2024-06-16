@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Cookies from "js-cookie";
-import { ThreeDots } from "react-loader-spinner";
+
 import { Navigate, useNavigate } from "react-router-dom";
 import "./index.css";
 
